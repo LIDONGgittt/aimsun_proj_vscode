@@ -1,0 +1,8 @@
+build/
+.vscode/
+
+## ignore Aimsun large runtime files
+//*.sqlite
+//*.ang.lck
+//*.ang.old
+//*.sang
